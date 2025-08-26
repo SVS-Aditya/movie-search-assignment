@@ -23,6 +23,7 @@ movie-search-assignment/
 └── tests/
 └── test_movie_search.py # Unit tests
 ```
+---
 
 ## ⚙️ Setup Instructions
 
