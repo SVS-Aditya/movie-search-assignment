@@ -11,7 +11,7 @@ Instead of keyword search, semantic embeddings allow retrieval based on **meanin
 ---
 
 ## 📂 Repository Structure
-'''
+```
 movie-search-assignment/
 │
 ├── movies.csv # Dataset (must contain 'title' and 'plot' columns)
@@ -22,10 +22,7 @@ movie-search-assignment/
 ├── .gitignore
 └── tests/
 └── test_movie_search.py # Unit tests
-'''
-
-
----
+```
 
 ## ⚙️ Setup Instructions
 
