@@ -31,16 +31,18 @@ movie-search-assignment/
    ```bash
    git clone https://github.com/your-username/movie-search-assignment.git
    cd movie-search-assignment
-2. Create a virtual environment
-
+   ```
+2. **Create a virtual environment**
+ ```bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
 
 
-3. Install dependencies
-
+3. **Install dependencies**
+```bash
 pip install -r requirements.txt
-
+```
 
 Run the notebook
 
@@ -50,8 +52,9 @@ jupyter notebook movie_search_solution.ipynb
 
 Unit tests are provided in tests/test_movie_search.py.
 Run them with:
-
+```bash
 python -m unittest tests/test_movie_search.py -v
+```
 
 
 ✅ Tests cover:
