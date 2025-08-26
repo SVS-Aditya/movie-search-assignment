@@ -13,15 +13,13 @@ Instead of keyword search, semantic embeddings allow retrieval based on **meanin
 ## 📂 Repository Structure
 ```
 movie-search-assignment/
-│
 ├── movies.csv # Dataset (must contain 'title' and 'plot' columns)
 ├── movie_search.py # Main Python module with search function
 ├── movie_search_solution.ipynb # Jupyter notebook with implementation & demo
 ├── requirements.txt # Dependencies
 ├── README.md # Documentation
-├── .gitignore
 └── tests/
-└── test_movie_search.py # Unit tests
+    └──test_movie_search.py # Unit tests
 ```
 ---
 
