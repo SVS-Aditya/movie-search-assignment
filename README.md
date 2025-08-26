@@ -53,6 +53,7 @@ Run them with:
 ```bash
 python -m unittest tests/test_movie_search.py -v
 ```
+<img width="1447" height="331" alt="Screenshot 2025-08-26 232507" src="https://github.com/user-attachments/assets/ae9f7042-e121-47a0-942a-ed6e5b51c2a5" />
 
 
 ✅ Tests cover:
